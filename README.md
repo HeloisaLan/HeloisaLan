@@ -8,7 +8,7 @@ Meu nome é Heloisa Landucci
 - [Alura](https://www.alura.com.br)
 - Jogadora de Vôlei
 
-![](![image](https://github.com/HeloisaLan/HeloisaLan/assets/170554132/b08bd60f-d56d-4840-a901-741d2d67ea9d)
+![](![image](https://github.com/HeloisaLan/HeloisaLan/assets/170554132/b08bd60f-d56d-4840-a901-741d2d67ea9d))
 
 
 
