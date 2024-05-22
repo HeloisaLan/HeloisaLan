@@ -1,16 +1,15 @@
-## Hi there 👋
+Bem vindo ao meu perfil 💕
 
-<!--
-**HeloisaLan/HeloisaLan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Heloisa Landucci
 
-Here are some ideas to get you started:
+- Estou cursando o Ensino Médio
+- Uso para fins pedagógicos
+- Estou me desenvolvendo na liguagem JavaScript
+- [Alura](https://www.alura.com.br)
+- Jogadora de Vôlei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](![image](https://github.com/HeloisaLan/HeloisaLan/assets/170554132/b08bd60f-d56d-4840-a901-741d2d67ea9d)
+
+
+
+
